@@ -4,6 +4,16 @@
 * 本人随处可见的一名普普通通的大学生
 
 
+
+
+
+
+
+
+### 声明：
+### 严禁利用所提到的技术进行非法攻击，否则后果自负，本人概不负责!
+
+
 <!--
 **Nikaid0/Nikaid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
